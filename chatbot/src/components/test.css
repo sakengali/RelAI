@@ -1,0 +1,869 @@
+.AI-with-chat {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .AI-with-chat .div {
+    background-color: #ffffff;
+    height: 1117px;
+    overflow: hidden;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .AI-with-chat .overlap {
+    height: 1006px;
+    left: -2px;
+    position: absolute;
+    top: 111px;
+    width: 1735px;
+  }
+  
+  .AI-with-chat .rectangle {
+    background-color: #e7f4ff;
+    height: 1006px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1731px;
+  }
+  
+  .AI-with-chat .rectangle-2 {
+    background-color: #d6e6f4;
+    border-radius: 8.95px;
+    height: 35px;
+    left: 1477px;
+    position: absolute;
+    top: 178px;
+    width: 228px;
+  }
+  
+  .AI-with-chat .text-wrapper {
+    color: #618aae;
+    font-family: "Bahij Janna-Regular", Helvetica;
+    font-size: 9px;
+    font-weight: 400;
+    left: 1507px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 187px;
+    width: 60px;
+  }
+  
+  .AI-with-chat .hicon-outline-search {
+    height: 12px !important;
+    left: 1490px !important;
+    position: absolute !important;
+    top: 189px !important;
+    width: 12px !important;
+  }
+  
+  .AI-with-chat .group {
+    height: 75px;
+    left: 1477px;
+    position: absolute;
+    top: 232px;
+    width: 232px;
+  }
+  
+  .AI-with-chat .overlap-group {
+    background-color: #e7f4ff;
+    border-radius: 15px;
+    box-shadow: 0px 1px 12px #181b261c;
+    height: 75px;
+    position: relative;
+    width: 228px;
+  }
+  
+  .AI-with-chat .text-wrapper-2 {
+    color: #1b4b74;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    left: 70px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+  }
+  
+  .AI-with-chat .nbc-news-is-a {
+    color: #618aad;
+    font-family: "Inter", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 70px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 28px;
+    width: 152px;
+  }
+  
+  .AI-with-chat .span {
+    color: #618aad;
+    font-family: "Inter", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .AI-with-chat .text-wrapper-3 {
+    font-weight: 500;
+  }
+  
+  .AI-with-chat .overlap-group-wrapper {
+    height: 13px;
+    left: 206px;
+    position: absolute;
+    top: 8px;
+    width: 13px;
+  }
+  
+  .AI-with-chat .overlap-group-2 {
+    border-radius: 6.5px;
+    height: 13px;
+    position: relative;
+  }
+  
+  .AI-with-chat .ellipse {
+    background-color: #cfe2f2;
+    border-radius: 6.5px;
+    box-shadow: 0px 0px 1.81px #0000001a;
+    height: 13px;
+    left: 0;
+    opacity: 0.85;
+    position: absolute;
+    top: 0;
+    width: 13px;
+  }
+  
+  .AI-with-chat .material-symbols {
+    height: 9px;
+    left: 2px;
+    position: absolute;
+    top: 2px;
+    width: 9px;
+  }
+  
+  .AI-with-chat .image {
+    height: 29px;
+    left: 13px;
+    position: absolute;
+    top: 21px;
+    width: 47px;
+  }
+  
+  .AI-with-chat .overlap-wrapper {
+    height: 75px;
+    left: 1477px;
+    position: absolute;
+    top: 502px;
+    width: 232px;
+  }
+  
+  .AI-with-chat .div-wrapper {
+    height: 75px;
+    left: 1477px;
+    position: absolute;
+    top: 322px;
+    width: 232px;
+  }
+  
+  .AI-with-chat .img {
+    height: 33px;
+    left: 13px;
+    position: absolute;
+    top: 20px;
+    width: 41px;
+  }
+  
+  .AI-with-chat .group-2 {
+    height: 75px;
+    left: 1477px;
+    position: absolute;
+    top: 592px;
+    width: 232px;
+  }
+  
+  .AI-with-chat .group-3 {
+    height: 75px;
+    left: 1477px;
+    position: absolute;
+    top: 412px;
+    width: 232px;
+  }
+  
+  .AI-with-chat .group-4 {
+    height: 13px;
+    left: 206px;
+    position: absolute;
+    top: 7px;
+    width: 13px;
+  }
+  
+  .AI-with-chat .image-2 {
+    height: 16px;
+    left: 16px;
+    position: absolute;
+    top: 30px;
+    width: 46px;
+  }
+  
+  .AI-with-chat .group-5 {
+    height: 75px;
+    left: 1477px;
+    position: absolute;
+    top: 682px;
+    width: 232px;
+  }
+  
+  .AI-with-chat .group-6 {
+    height: 75px;
+    left: 1477px;
+    position: absolute;
+    top: 772px;
+    width: 232px;
+  }
+  
+  .AI-with-chat .image-3 {
+    height: 35px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 19px;
+    width: 41px;
+  }
+  
+  .AI-with-chat .group-7 {
+    height: 75px;
+    left: 1477px;
+    position: absolute;
+    top: 862px;
+    width: 232px;
+  }
+  
+  .AI-with-chat .rectangle-3 {
+    background-color: #1a4b74;
+    border-radius: 0px 33px 33px 0px;
+    height: 962px;
+    left: 2px;
+    position: absolute;
+    top: 15px;
+    width: 284px;
+  }
+  
+  .AI-with-chat .group-8 {
+    height: 24px;
+    left: 118px;
+    position: absolute;
+    top: 22px;
+    width: 54px;
+  }
+  
+  .AI-with-chat .overlap-2 {
+    height: 24px;
+    position: relative;
+    width: 52px;
+  }
+  
+  .AI-with-chat .layer {
+    height: 16px;
+    left: 34px;
+    position: absolute;
+    top: 3px;
+    width: 18px;
+  }
+  
+  .AI-with-chat .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 20.4px;
+    font-style: italic;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .AI-with-chat .group-9 {
+    height: 179px;
+    left: 671px;
+    position: absolute;
+    top: 344px;
+    width: 393px;
+  }
+  
+  .AI-with-chat .overlap-3 {
+    height: 179px;
+    position: relative;
+    width: 391px;
+  }
+  
+  .AI-with-chat .layer-2 {
+    height: 117px;
+    left: 256px;
+    position: absolute;
+    top: 25px;
+    width: 135px;
+  }
+  
+  .AI-with-chat .text-wrapper-5 {
+    color: #1b4b74;
+    font-family: "Roboto", Helvetica;
+    font-size: 153.1px;
+    font-style: italic;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .AI-with-chat .rectangle-4 {
+    background-color: #e7f4ff;
+    border-radius: 41px;
+    box-shadow: 0px 1px 12px #181b261c;
+    height: 54px;
+    left: 497px;
+    position: absolute;
+    top: 883px;
+    width: 738px;
+  }
+  
+  .AI-with-chat .rectangle-5 {
+    background-color: #e7f4ff;
+    border-radius: 56px;
+    box-shadow: 0px 3px 10px #11102321;
+    height: 45px;
+    left: 29px;
+    position: absolute;
+    top: 54px;
+    width: 229px;
+  }
+  
+  .AI-with-chat .text-wrapper-6 {
+    color: #1b4b74;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 68px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 67px;
+  }
+  
+  .AI-with-chat .group-wrapper {
+    border: 1px solid;
+    border-color: #53eaff;
+    border-radius: 56px;
+    height: 30px;
+    left: 29px;
+    position: absolute;
+    top: 150px;
+    width: 229px;
+  }
+  
+  .AI-with-chat .group-10 {
+    height: 17px;
+    left: 26px;
+    position: relative;
+    top: 5px;
+    width: 177px;
+  }
+  
+  .AI-with-chat .text-wrapper-7 {
+    color: #53eaff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .AI-with-chat .group-11 {
+    height: 10px;
+    left: 0;
+    position: absolute;
+    top: 5px;
+    width: 10px;
+  }
+  
+  .AI-with-chat .group-12 {
+    height: 30px;
+    left: 29px;
+    position: absolute;
+    top: 301px;
+    width: 231px;
+  }
+  
+  .AI-with-chat .overlap-4 {
+    border: 1px solid;
+    border-color: #9dbbd5;
+    border-radius: 56px;
+    height: 30px;
+    position: relative;
+    width: 229px;
+  }
+  
+  .AI-with-chat .text-wrapper-8 {
+    color: #9dbbd5;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 33px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 6px;
+  }
+  
+  .AI-with-chat .vector {
+    height: 10px;
+    left: 16px;
+    position: absolute;
+    top: 9px;
+    width: 10px;
+  }
+  
+  .AI-with-chat .text-wrapper-9 {
+    color: #9dbbd5;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 121px;
+  }
+  
+  .AI-with-chat .text-wrapper-10 {
+    color: #9dbbd5;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 68px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 121px;
+  }
+  
+  .AI-with-chat .p {
+    color: #53eaff9e;
+    font-family: "Inter", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 183px;
+    width: 192px;
+  }
+  
+  .AI-with-chat .line {
+    height: 1px;
+    left: 18px;
+    position: absolute;
+    top: 824px;
+    width: 252px;
+  }
+  
+  .AI-with-chat .line-2 {
+    height: 1px;
+    left: 18px;
+    position: absolute;
+    top: 869px;
+    width: 252px;
+  }
+  
+  .AI-with-chat .vector-2 {
+    height: 13px;
+    left: 47px;
+    position: absolute;
+    top: 70px;
+    width: 13px;
+  }
+  
+  .AI-with-chat .frame {
+    align-items: center;
+    background-color: #0f375a;
+    border-radius: 28px;
+    display: inline-flex;
+    gap: 8px;
+    left: 21px;
+    padding: 4px 8px;
+    position: absolute;
+    top: 217px;
+  }
+  
+  .AI-with-chat .vector-3 {
+    height: 11px;
+    position: relative;
+    width: 11px;
+  }
+  
+  .AI-with-chat .text-wrapper-11 {
+    color: #e7f4ff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .AI-with-chat .vector-4 {
+    height: 10.5px;
+    position: relative;
+    width: 9.62px;
+  }
+  
+  .AI-with-chat .group-13 {
+    height: 17px;
+    left: 29px;
+    position: absolute;
+    top: 246px;
+    width: 251px;
+  }
+  
+  .AI-with-chat .text-wrapper-12 {
+    color: #e7f4ff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .AI-with-chat .vector-5 {
+    height: 11px;
+    left: 0;
+    position: absolute;
+    top: 4px;
+    width: 11px;
+  }
+  
+  .AI-with-chat .group-14 {
+    height: 17px;
+    left: 29px;
+    position: absolute;
+    top: 271px;
+    width: 248px;
+  }
+  
+  .AI-with-chat .group-15 {
+    height: 96px;
+    left: 27px;
+    position: absolute;
+    top: 358px;
+    width: 259px;
+  }
+  
+  .AI-with-chat .group-16 {
+    height: 19px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 186px;
+  }
+  
+  .AI-with-chat .overlap-group-3 {
+    height: 36px;
+    left: 58px;
+    position: absolute;
+    top: -6px;
+    width: 132px;
+  }
+  
+  .AI-with-chat .group-17 {
+    height: 36px;
+    left: 97px;
+    position: absolute;
+    top: 0;
+    width: 36px;
+  }
+  
+  .AI-with-chat .text-wrapper-13 {
+    color: #9dbbd5;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 7px;
+  }
+  
+  .AI-with-chat .text-wrapper-14 {
+    color: #9dbbd5;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1px;
+  }
+  
+  .AI-with-chat .group-18 {
+    height: 17px;
+    left: 0;
+    position: absolute;
+    top: 29px;
+    width: 256px;
+  }
+  
+  .AI-with-chat .group-19 {
+    height: 17px;
+    left: 0;
+    position: absolute;
+    top: 54px;
+    width: 261px;
+  }
+  
+  .AI-with-chat .group-20 {
+    height: 17px;
+    left: 0;
+    position: absolute;
+    top: 79px;
+    width: 259px;
+  }
+  
+  .AI-with-chat .rectangle-6 {
+    background: linear-gradient(180deg, rgb(26.78, 75.19, 116.42) 52.96%, rgba(26.78, 75.19, 116.42, 0) 100%);
+    border-radius: 0px 33px 33px 0px;
+    height: 962px;
+    left: 2px;
+    position: absolute;
+    top: 15px;
+    width: 284px;
+  }
+  
+  .AI-with-chat .chevron-forward-wrapper {
+    background-color: #1b4c75;
+    border-radius: 20px;
+    box-shadow: 0px 2.48px 8.26px #1110232b;
+    height: 40px;
+    left: 299px;
+    position: absolute;
+    top: 476px;
+    width: 40px;
+  }
+  
+  .AI-with-chat .chevron-forward {
+    height: 24px;
+    left: 8px;
+    position: absolute;
+    top: 8px;
+    width: 24px;
+  }
+  
+  .AI-with-chat .group-21 {
+    height: 41px;
+    left: 23px;
+    position: absolute;
+    top: 896px;
+    width: 228px;
+  }
+  
+  .AI-with-chat .ellipse-2 {
+    height: 41px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 41px;
+  }
+  
+  .AI-with-chat .text-wrapper-15 {
+    color: #e7f4ff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+  }
+  
+  .AI-with-chat .group-22 {
+    height: 2px;
+    left: 213px;
+    position: absolute;
+    top: 20px;
+    width: 13px;
+  }
+  
+  .AI-with-chat .vector-6 {
+    height: 43px;
+    left: 34px;
+    position: absolute;
+    top: 628px;
+    width: 39px;
+  }
+  
+  .AI-with-chat .group-23 {
+    height: 18px;
+    left: 64px;
+    position: absolute;
+    top: 838px;
+    width: 162px;
+  }
+  
+  .AI-with-chat .text-wrapper-16 {
+    color: #e7f4ff;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .AI-with-chat .icon-park-outline {
+    height: 18px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 18px;
+  }
+  
+  .AI-with-chat .text-wrapper-17 {
+    color: #9dbbd5;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 526px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 901px;
+  }
+  
+  .AI-with-chat .fluent-send {
+    height: 18px;
+    left: 1186px;
+    position: absolute;
+    top: 901px;
+    width: 18px;
+  }
+  
+  .AI-with-chat .text-wrapper-18 {
+    color: #618aad;
+    font-family: "Inter", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 1481px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 108px;
+    width: 220px;
+  }
+  
+  .AI-with-chat .text-wrapper-19 {
+    color: #1b4b74;
+    font-family: "Inter", Helvetica;
+    font-size: 15px;
+    font-weight: 500;
+    left: 1507px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 54px;
+    white-space: nowrap;
+  }
+  
+  .AI-with-chat .line-3 {
+    height: 1px;
+    left: 1465px;
+    position: absolute;
+    top: 91px;
+    width: 252px;
+  }
+  
+  .AI-with-chat .rectangle-7 {
+    height: 136px;
+    left: 1446px;
+    position: absolute;
+    top: 841px;
+    width: 284px;
+  }
+  
+  .AI-with-chat .text-wrapper-20 {
+    color: #1b4b74;
+    font-family: "Inter", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 1481px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 924px;
+    width: 220px;
+  }
+  
+  .AI-with-chat .rectangle-8 {
+    border: 2px solid;
+    border-color: #bfd3e5;
+    border-radius: 0px 33px 33px 0px;
+    height: 962px;
+    left: 1446px;
+    position: absolute;
+    top: 15px;
+    transform: rotate(180deg);
+    width: 289px;
+  }
+  
+  .AI-with-chat .text-wrapper-21 {
+    color: #618aae;
+    font-family: "Roboto", Helvetica;
+    font-size: 38.2px;
+    font-style: italic;
+    font-weight: 400;
+    left: 669px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 485px;
+    white-space: nowrap;
+  }
+  
+  .AI-with-chat .screenshot {
+    height: 111px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1728px;
+  }
+  

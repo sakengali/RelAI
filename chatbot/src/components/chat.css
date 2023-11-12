@@ -1,0 +1,67 @@
+.CH{
+    background-color: #e7f4ff; 
+}
+.sending {
+    background-color: #e7f4ff;
+    border-radius: 41px;
+    box-shadow: 0px 1px 12px #181b261c;
+    height: 54px;
+    left: 420px;
+    position: fixed;
+    top: 0;
+    width: 738px;
+    top: 630px;
+  }
+  .sending .textt{
+    background-color: #e7f4ff;
+    font-family: "Inter", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    border: #e7f4ff;
+    left: 440px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 650px;
+  }
+  .iconn{
+    display: flex;
+  height: 18px;
+  left: 350px;
+  position: absolute;
+  top:8px;
+  width: 18px;
+}
+.msg1{
+  margin-top: -600px;
+}
+.img1{
+  width: 41px;
+  height: 41px;
+}
+.par{
+  color: #1B4B74;
+  font-family: "Inter", Helvetica;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-left: 50px;
+margin-top: -30px;
+}
+.img2{
+  width: 41px;
+  height: 41px;
+  flex-shrink: 0;
+  margin-top: 40px;
+}
+.par2{
+  color: #1B4B74;
+  font-family: "Inter", Helvetica;
+font-size: 16 px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-left: 50px;
+margin-bottom: 10px;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Sender</title>
+</head>
+<body>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const sendDataToServer = async () => {
+                const dataToSend = { key: 'value' }; // Your JSON data here
+
+                try {
+                    const response = await fetch('http://localhost:3001/test', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify(dataToSend),
+                    });
+
+                    const responseData = await response.text();
+                    console.log('Server response:', responseData);
+                } catch (error) {
+                    console.error('Error sending data to server:', error);
+                }
+            };
+
+            sendDataToServer();
+        });
+    </script>
+</body>
+</html>
